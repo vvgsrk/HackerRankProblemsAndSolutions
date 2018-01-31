@@ -1,6 +1,8 @@
 Problem: https://www.hackerrank.com/challenges/fp-list-replication/problem
 
-Solution: def f(num:Int, arr:List[Int]): List[Int] = { 
+Solution: 
+
+def f(num:Int, arr:List[Int]): List[Int] = { 
     
     import scala.collection.mutable.ListBuffer
     
@@ -16,6 +18,6 @@ Solution: def f(num:Int, arr:List[Int]): List[Int] = {
     }
     
     result_list.toList
-  }
+}
   
   
