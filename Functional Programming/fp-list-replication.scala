@@ -1,6 +1,6 @@
-Problem: https://www.hackerrank.com/challenges/fp-list-replication/problem
+/* Problem: https://www.hackerrank.com/challenges/fp-list-replication/problem */
 
-Solution: 
+/* Solution: */
 
 def f(num:Int, arr:List[Int]): List[Int] = { 
     
