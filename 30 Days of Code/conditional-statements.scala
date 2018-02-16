@@ -1,6 +1,6 @@
-Problem: https://www.hackerrank.com/challenges/30-conditional-statements/problem
+/* Problem: https://www.hackerrank.com/challenges/30-conditional-statements/problem */
 
-Solution: 
+/* Solution: */ 
 
 object Solution {
 
