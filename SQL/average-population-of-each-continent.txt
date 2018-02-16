@@ -1,7 +1,12 @@
-Problem Link: https://www.hackerrank.com/challenges/average-population-of-each-continent/problem
+Problem:
+--------
 
-Solution: SELECT country.continent, FLOOR(AVG(city.population)) 
-			FROM country, city 
-			WHERE country.code = city.countrycode 
-			GROUP BY continent
-			;
+https://www.hackerrank.com/challenges/average-population-of-each-continent/problem
+
+Solution:
+---------
+
+  SELECT country.continent, FLOOR(AVG(city.population)) 
+    FROM country, city 
+   WHERE country.code = city.countrycode 
+GROUP BY continent;
