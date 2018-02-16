@@ -1,6 +1,6 @@
-Problem: https://www.hackerrank.com/challenges/30-operators/problem
+/* Problem: https://www.hackerrank.com/challenges/30-operators/problem */
 
-Solution:
+/* Solution: */
 
 object Solution {
 
