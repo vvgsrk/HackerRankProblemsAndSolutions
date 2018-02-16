@@ -1,6 +1,6 @@
-Problem: https://www.hackerrank.com/challenges/30-hello-world/problem
+/* Problem: https://www.hackerrank.com/challenges/30-hello-world/problem */
 
-Solution: 
+/* Solution: */ 
 
 object Solution {
     def main(args: Array[String]) {
