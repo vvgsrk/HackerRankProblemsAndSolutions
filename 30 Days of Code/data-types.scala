@@ -1,6 +1,6 @@
-Problem: https://www.hackerrank.com/challenges/30-data-types/problem
+/* Problem: https://www.hackerrank.com/challenges/30-data-types/problem */
 
-Solution: 
+/* Solution: */ 
 
 object Solution {
     def main(args: Array[String]) {
